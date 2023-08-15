@@ -6,7 +6,7 @@ project(govtest VERSION 0.1)
 
 # Define a variable containing a list of source files for the project
 set(SRC_FILES
-    106-5.cpp
+    107-6.cpp
     )
 
 # Define the build target for the executable
